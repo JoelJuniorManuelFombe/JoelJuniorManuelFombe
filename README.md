@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joeljuniormanuelfombe&label=Profile%20views&color=0e75b6&style=flat" alt="joeljuniormanuelfombe" /> </p>
 
-- 🌱 I’m currently learning **Frameworks, Courses, etc**
+- 🌱 I’m just a curious**
 
 - 📫 How to reach me **joeljuniormanuel@gmail.com**
 
